@@ -10,6 +10,6 @@ Authenticated User can log out and edit his profile page
 * MySQL
 
 ### DATABASE
-Database is created using MySQL database
+Database is created using SQL database
 #### Tables
 * User: has three columns(id, first_name, last_name, email, password) 
